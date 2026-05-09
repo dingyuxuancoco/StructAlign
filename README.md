@@ -10,5 +10,10 @@ For the original PDF version, see [structAlign_overviwe.pdf](structAlign_overviw
 
 ## Repository Structure
 
+- `checkpoints/`: trained model checkpoints.
+- `config/`: configuration files.
 - `dataset/`: dataset files and related instructions.
 - `dataspace/`: data processing workspace and generated intermediate files.
+- `model/`: model implementation.
+- `reference_database/`: reference database files.
+- `result/`: experiment outputs and evaluation results.
